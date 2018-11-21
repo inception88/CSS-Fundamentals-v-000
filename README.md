@@ -234,7 +234,7 @@ input[type="text"] {
 ```
 
 Here we want to find `input` elements, but only those with a `type` value that
-matches "text." For those elements that fit the requirements, the browswer will
+matches "text." For those elements that fit the requirements, the browser will
 then apply the width we want. There are many different ways to use this type of
 selector with various combinations of operations and attribute values, so you
 can refer to the resources to explore them all.
